@@ -19,6 +19,7 @@
   .form h2, .summary h2 {
     margin-bottom: 1em;
     font-family: 'Arial', sans-serif;
+    text-align: center;
   }
   
   .form-group {
